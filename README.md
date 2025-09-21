@@ -9,3 +9,12 @@ Nocturne Analytics is a data research lab specializing in music events and the e
 The **DaftPunk** project focuses on analyzing techno music events, storing information about users, artists, and interactions.  
 Its main goal is to provide event analytics and develop recommendation models for music events.
 
+## Tools and Resources
+
+- **Database:** PostgreSQL 16, pgAdmin  
+- **Language:** Python 3.13  
+- **Libraries:** psycopg2, csv, os  
+- **Editor:** VS Code  
+- **Resources:** Kaggle (for CSVs), PostgreSQL documentation, StackOverflow
+
+
