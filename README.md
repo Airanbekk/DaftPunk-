@@ -18,11 +18,15 @@ Its main goal is to provide event analytics and develop recommendation models fo
 - **Editor:** VS Code  
 - **Resources:** Kaggle (for CSVs), PostgreSQL documentation, StackOverflow
 
+<img width="1401" height="1027" alt="Снимок экрана 2025-09-21 162530" src="https://github.com/user-attachments/assets/e553e780-3e4a-4178-8ab0-9cbf61eef21a" />
+
+
  ## How to Run the Project
 
 1. **Start PostgreSQL** – Make sure the server is running and the database `techno events` exists.  
 2. **Import Data** – Place CSV files in the project folder and run:
 ```bash
-python import.py
+python import.py 
+
 
 
