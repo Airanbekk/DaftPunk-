@@ -1,0 +1,90 @@
+dashboard_title: '[ 9]'
+description: null
+css: ''
+slug: null
+certified_by: ''
+certification_details: ''
+published: false
+uuid: 0114761b-30ca-48b6-8d3a-a97915e823c2
+position:
+  CHART-explore-391-1:
+    children: []
+    id: CHART-explore-391-1
+    meta:
+      chartId: 391
+      height: 50
+      sliceName: World Cloud
+      uuid: b1792b4c-c312-49fd-a114-9aca530edbce
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-tq3pJ1-R5gJXOoITYhSxC
+    type: CHART
+  DASHBOARD_VERSION_KEY: v2
+  GRID_ID:
+    children:
+    - ROW-tq3pJ1-R5gJXOoITYhSxC
+    id: GRID_ID
+    parents:
+    - ROOT_ID
+    type: GRID
+  HEADER_ID:
+    id: HEADER_ID
+    meta:
+      text: '[ 9]'
+    type: HEADER
+  ROOT_ID:
+    children:
+    - GRID_ID
+    id: ROOT_ID
+    type: ROOT
+  ROW-tq3pJ1-R5gJXOoITYhSxC:
+    children:
+    - CHART-explore-391-1
+    id: ROW-tq3pJ1-R5gJXOoITYhSxC
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+metadata:
+  chart_configuration: {}
+  global_chart_configuration:
+    scope:
+      rootPath:
+      - ROOT_ID
+      excluded: []
+    chartsInScope:
+    - 391
+  map_label_colors:
+    '999999999': '#A868B7'
+    Indira Paganotto: '#1FA8C9'
+    Stella Bossi: '#454E7C'
+    Frida Darko: '#5AC189'
+    Juliet Fox: '#FF7F44'
+    Charlotte de Witte: '#666666'
+    Mark Dekoda: '#E04355'
+    Brutalismus 3000: '#FCC700'
+    Boston 168: '#3CCCCB'
+    Anfisa Letyago: '#A38F79'
+    Deborah de Luca: '#8FD3E4'
+    Boris Brejcha: '#A1A6BD'
+    Enrico Sangiuliano: '#ACE1C4'
+    Dax J: '#FEC0A1'
+    Dubfire: '#B2B2B2'
+    ARTBAT: '#EFA1AA'
+    FJAAK: '#FDE380'
+  color_scheme: ''
+  refresh_frequency: 0
+  color_scheme_domain: []
+  expanded_slices: {}
+  label_colors: {}
+  shared_label_colors: []
+  timed_refresh_immune_slices: []
+  cross_filters_enabled: true
+  default_filters: '{}'
+theme_uuid: null
+version: 1.0.0
